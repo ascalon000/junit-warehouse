@@ -1,0 +1,26 @@
+[
+  {
+    "id": "123",
+    "name": "Circuit",
+    "price": 35.0,
+    "quantity": 4,
+    "type": "Electronics",
+    "warrantyMonths": 12
+  },
+  {
+    "id": "212",
+    "name": "Pear",
+    "price": 2700.0,
+    "quantity": 4,
+    "type": "Food",
+    "expirationDate": "2025-04-04"
+  },
+  {
+    "id": "1234",
+    "name": "Orange",
+    "price": 7.0,
+    "quantity": 15,
+    "type": "Food",
+    "expirationDate": "2026-04-10"
+  }
+]
